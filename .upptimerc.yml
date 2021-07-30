@@ -55,9 +55,6 @@ sites:
   - name: birdsite.xanny.family
     url: https://birdsite.xanny.family
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
-  - name: nitter.40two.app
-    url: https://nitter.40two.app
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
   - name: nitter.skrep.in
     url: https://nitter.skrep.in
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
