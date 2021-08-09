@@ -1,7 +1,7 @@
 url: https://nitter.cattube.org
-status: up
-code: 200
-responseTime: 822
-lastUpdated: 2021-08-09T09:34:19.779Z
+status: down
+code: 502
+responseTime: 834
+lastUpdated: 2021-08-09T12:17:03.504Z
 startTime: Tue Mar 02 2021 18:58:43 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
