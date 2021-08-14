@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-14": 855,
+      "2021-08-14": 869,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
       "2021-08-11": 1440,
@@ -734,7 +734,7 @@
     "slug": "twitr-gq",
     "status": "down",
     "uptime": "93.45%",
-    "uptimeDay": "40.21%",
+    "uptimeDay": "41.15%",
     "uptimeWeek": "36.99%",
     "uptimeMonth": "85.16%",
     "uptimeYear": "93.45%",
@@ -962,19 +962,19 @@
     "url": "https://bird.nogafam.es",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png",
     "slug": "bird-nogafam-es",
-    "status": "up",
-    "uptime": "86.03%",
-    "uptimeDay": "89.64%",
-    "uptimeWeek": "84.56%",
-    "uptimeMonth": "86.03%",
-    "uptimeYear": "86.03%",
+    "status": "down",
+    "uptime": "86.17%",
+    "uptimeDay": "89.58%",
+    "uptimeWeek": "84.55%",
+    "uptimeMonth": "86.17%",
+    "uptimeYear": "86.17%",
     "time": 1090,
     "timeDay": 1291,
     "timeWeek": 1134,
     "timeMonth": 1090,
     "timeYear": 1090,
     "dailyMinutesDown": {
-      "2021-08-14": 91,
+      "2021-08-14": 92,
       "2021-08-13": 208,
       "2021-08-12": 262,
       "2021-08-11": 103,
@@ -986,7 +986,7 @@
       "2021-08-05": 171,
       "2021-08-04": 253,
       "2021-08-03": 322,
-      "2021-08-02": 294
+      "2021-08-02": 266
     }
   },
   {
