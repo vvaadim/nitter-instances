@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-15": 1260,
+      "2021-08-15": 1280,
       "2021-08-14": 1440,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
@@ -672,9 +672,9 @@
     "slug": "nitter-skrep-in",
     "status": "up",
     "uptime": "98.08%",
-    "uptimeDay": "88.26%",
-    "uptimeWeek": "80.66%",
-    "uptimeMonth": "91.24%",
+    "uptimeDay": "88.92%",
+    "uptimeWeek": "80.76%",
+    "uptimeMonth": "91.21%",
     "uptimeYear": "98.08%",
     "time": 633,
     "timeDay": 684,
@@ -682,7 +682,7 @@
     "timeMonth": 692,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2021-08-15": 153,
+      "2021-08-15": 143,
       "2021-08-14": 146,
       "2021-08-13": 131,
       "2021-08-12": 423,
@@ -701,7 +701,7 @@
       "2021-07-30": 103,
       "2021-07-29": 92,
       "2021-07-28": 157,
-      "2021-07-27": 119
+      "2021-07-27": 141
     }
   },
   {
@@ -905,19 +905,19 @@
     "url": "https://nitter.mha.fi",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-mha-fi",
-    "status": "up",
-    "uptime": "94.95%",
-    "uptimeDay": "87.21%",
-    "uptimeWeek": "86.33%",
-    "uptimeMonth": "92.99%",
-    "uptimeYear": "94.95%",
+    "status": "down",
+    "uptime": "95.06%",
+    "uptimeDay": "87.16%",
+    "uptimeWeek": "86.32%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "95.06%",
     "time": 509,
-    "timeDay": 557,
-    "timeWeek": 517,
+    "timeDay": 570,
+    "timeWeek": 518,
     "timeMonth": 509,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2021-08-15": 168,
+      "2021-08-15": 169,
       "2021-08-14": 138,
       "2021-08-13": 175,
       "2021-08-12": 150,
@@ -936,7 +936,7 @@
       "2021-07-29": 145,
       "2021-07-28": 84,
       "2021-07-27": 116,
-      "2021-07-26": 99
+      "2021-07-26": 36
     }
   },
   {
@@ -963,11 +963,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png",
     "slug": "bird-nogafam-es",
     "status": "up",
-    "uptime": "86.80%",
+    "uptime": "86.81%",
     "uptimeDay": "92.59%",
     "uptimeWeek": "83.72%",
-    "uptimeMonth": "86.80%",
-    "uptimeYear": "86.80%",
+    "uptimeMonth": "86.81%",
+    "uptimeYear": "86.81%",
     "time": 1084,
     "timeDay": 980,
     "timeWeek": 1131,
