@@ -1,8 +1,6 @@
-# Change these first
 owner: xnaas
 repo: nitter-instances
 
-# Add your sites here
 sites:
   - name: nitter.net
     url: https://nitter.net
@@ -86,8 +84,26 @@ sites:
     url: https://tweet.lambda.dance
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
   - name: nitter.grimneko.de
-    url: https://nitter.grimneko.de/
+    url: https://nitter.grimneko.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.sugoma.tk
+    url: https://nitter.sugoma.tk
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.alefvanoon.xyz
+    url: https://nitter.alefvanoon.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.ir
+    url: https://nitter.ir
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.autarkic.org
+    url: https://nitter.autarkic.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: n.0x0.st
+    url: https://n.0x0.st
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: n.hyperborea.cloud
+    url: https://n.hyperborea.cloud
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -104,5 +120,3 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
