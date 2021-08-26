@@ -83,9 +83,6 @@ sites:
   - name: nitter.grimneko.de
     url: https://nitter.grimneko.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.sugoma.tk
-    url: https://nitter.sugoma.tk
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
   - name: nitter.alefvanoon.xyz
     url: https://nitter.alefvanoon.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
