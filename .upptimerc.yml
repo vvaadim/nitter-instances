@@ -74,9 +74,6 @@ sites:
   - name: twitter.censors.us
     url: https://twitter.censors.us
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
-  - name: tweet.lambda.dance
-    url: https://tweet.lambda.dance
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
   - name: nitter.grimneko.de
     url: https://nitter.grimneko.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
