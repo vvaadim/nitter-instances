@@ -53,9 +53,6 @@ sites:
   - name: nitter.database.red
     url: https://nitter.database.red
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: twitr.gq
-    url: https://twitr.gq
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
   - name: nitter.koyu.space
     url: https://nitter.koyu.space
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
