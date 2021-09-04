@@ -475,9 +475,9 @@
     "slug": "birdsite-xanny-family",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "35.81%",
-    "uptimeWeek": "90.83%",
-    "uptimeMonth": "97.89%",
+    "uptimeDay": "35.14%",
+    "uptimeWeek": "90.73%",
+    "uptimeMonth": "97.87%",
     "uptimeYear": "99.62%",
     "time": 529,
     "timeDay": 0,
@@ -485,7 +485,7 @@
     "timeMonth": 617,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2021-09-04": 696,
+      "2021-09-04": 706,
       "2021-09-03": 228,
       "2021-06-05": 33
     }
@@ -502,7 +502,7 @@
     "uptimeMonth": "93.51%",
     "uptimeYear": "98.76%",
     "time": 690,
-    "timeDay": 765,
+    "timeDay": 763,
     "timeWeek": 730,
     "timeMonth": 851,
     "timeYear": 690,
@@ -562,7 +562,7 @@
     "slug": "nitter-koyu-space",
     "status": "up",
     "uptime": "98.52%",
-    "uptimeDay": "75.58%",
+    "uptimeDay": "76.25%",
     "uptimeWeek": "91.62%",
     "uptimeMonth": "97.96%",
     "uptimeYear": "98.52%",
@@ -642,7 +642,7 @@
     "uptimeYear": "97.22%",
     "time": 546,
     "timeDay": 534,
-    "timeWeek": 531,
+    "timeWeek": 530,
     "timeMonth": 542,
     "timeYear": 546,
     "dailyMinutesDown": {
@@ -691,17 +691,17 @@
     "slug": "nitter-mha-fi",
     "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "90.46%",
-    "uptimeMonth": "93.72%",
+    "uptimeDay": "95.20%",
+    "uptimeWeek": "90.55%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "96.91%",
     "time": 532,
     "timeDay": 625,
     "timeWeek": 597,
-    "timeMonth": 543,
+    "timeMonth": 544,
     "timeYear": 532,
     "dailyMinutesDown": {
-      "2021-09-04": 35,
+      "2021-09-04": 25,
       "2021-09-03": 178,
       "2021-09-02": 135,
       "2021-09-01": 110,
@@ -720,7 +720,8 @@
       "2021-08-19": 125,
       "2021-08-18": 158,
       "2021-08-17": 157,
-      "2021-08-16": 89
+      "2021-08-16": 89,
+      "2021-08-15": 17
     }
   },
   {
@@ -748,19 +749,19 @@
     "url": "https://bird.nogafam.es",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png",
     "slug": "bird-nogafam-es",
-    "status": "up",
-    "uptime": "94.23%",
-    "uptimeDay": "88.11%",
+    "status": "down",
+    "uptime": "94.27%",
+    "uptimeDay": "88.07%",
     "uptimeWeek": "83.14%",
-    "uptimeMonth": "93.19%",
-    "uptimeYear": "94.23%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "94.27%",
     "time": 1057,
-    "timeDay": 1016,
+    "timeDay": 1005,
     "timeWeek": 1037,
     "timeMonth": 1053,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2021-09-04": 43,
+      "2021-09-04": 44,
       "2021-09-03": 186,
       "2021-09-02": 223,
       "2021-09-01": 386,
@@ -772,7 +773,7 @@
       "2021-08-26": 192,
       "2021-08-25": 217,
       "2021-08-24": 509,
-      "2021-08-23": 40
+      "2021-08-23": 19
     }
   },
   {
