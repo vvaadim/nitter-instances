@@ -135,7 +135,7 @@
     "status": "up",
     "uptime": "99.09%",
     "uptimeDay": "96.09%",
-    "uptimeWeek": "98.14%",
+    "uptimeWeek": "98.23%",
     "uptimeMonth": "98.76%",
     "uptimeYear": "99.09%",
     "time": 517,
@@ -477,7 +477,7 @@
     "slug": "birdsite-xanny-family",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "26.59%",
+    "uptimeDay": "27.28%",
     "uptimeWeek": "85.05%",
     "uptimeMonth": "96.56%",
     "uptimeYear": "99.40%",
@@ -499,9 +499,9 @@
     "slug": "nitter-skrep-in",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "85.25%",
-    "uptimeWeek": "91.08%",
-    "uptimeMonth": "93.47%",
+    "uptimeDay": "86.90%",
+    "uptimeWeek": "91.22%",
+    "uptimeMonth": "93.44%",
     "uptimeYear": "98.75%",
     "time": 690,
     "timeDay": 763,
@@ -509,7 +509,7 @@
     "timeMonth": 851,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2021-09-05": 74,
+      "2021-09-05": 60,
       "2021-09-04": 226,
       "2021-09-03": 117,
       "2021-09-01": 153,
@@ -530,7 +530,7 @@
       "2021-08-17": 145,
       "2021-08-16": 169,
       "2021-08-15": 143,
-      "2021-08-14": 57
+      "2021-08-14": 87
     }
   },
   {
@@ -749,19 +749,19 @@
     "url": "https://bird.nogafam.es",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png",
     "slug": "bird-nogafam-es",
-    "status": "up",
-    "uptime": "94.68%",
-    "uptimeDay": "79.83%",
-    "uptimeWeek": "81.54%",
-    "uptimeMonth": "93.61%",
-    "uptimeYear": "94.68%",
+    "status": "down",
+    "uptime": "94.74%",
+    "uptimeDay": "79.77%",
+    "uptimeWeek": "81.53%",
+    "uptimeMonth": "93.67%",
+    "uptimeYear": "94.74%",
     "time": 1057,
     "timeDay": 999,
     "timeWeek": 1034,
     "timeMonth": 1054,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2021-09-05": 114,
+      "2021-09-05": 115,
       "2021-09-04": 177,
       "2021-09-03": 186,
       "2021-09-02": 223,
@@ -773,7 +773,7 @@
       "2021-08-27": 193,
       "2021-08-26": 192,
       "2021-08-25": 217,
-      "2021-08-24": 116
+      "2021-08-24": 85
     }
   },
   {
