@@ -500,19 +500,19 @@
     "url": "https://nitter.skrep.in",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-skrep-in",
-    "status": "up",
+    "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "93.11%",
+    "uptimeDay": "93.07%",
     "uptimeWeek": "91.26%",
-    "uptimeMonth": "93.67%",
+    "uptimeMonth": "93.70%",
     "uptimeYear": "98.82%",
     "time": 693,
-    "timeDay": 696,
+    "timeDay": 685,
     "timeWeek": 755,
     "timeMonth": 851,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2021-09-08": 58,
+      "2021-09-08": 59,
       "2021-09-07": 81,
       "2021-09-06": 147,
       "2021-09-05": 155,
@@ -533,7 +533,7 @@
       "2021-08-20": 165,
       "2021-08-19": 159,
       "2021-08-18": 168,
-      "2021-08-17": 64
+      "2021-08-17": 47
     }
   },
   {
@@ -641,18 +641,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "bird-trom-tf",
     "status": "up",
-    "uptime": "97.41%",
-    "uptimeDay": "92.21%",
-    "uptimeWeek": "93.31%",
-    "uptimeMonth": "94.81%",
-    "uptimeYear": "97.41%",
+    "uptime": "97.40%",
+    "uptimeDay": "92.90%",
+    "uptimeWeek": "93.41%",
+    "uptimeMonth": "94.83%",
+    "uptimeYear": "97.40%",
     "time": 544,
-    "timeDay": 518,
-    "timeWeek": 527,
+    "timeDay": 519,
+    "timeWeek": 526,
     "timeMonth": 539,
     "timeYear": 544,
     "dailyMinutesDown": {
-      "2021-09-08": 73,
+      "2021-09-08": 63,
       "2021-09-07": 106,
       "2021-09-06": 148,
       "2021-09-05": 16,
@@ -682,7 +682,7 @@
       "2021-08-09": 94,
       "2021-08-08": 70,
       "2021-08-07": 56,
-      "2021-08-06": 58
+      "2021-08-06": 77
     }
   },
   {
@@ -698,7 +698,7 @@
     "uptimeYear": "97.04%",
     "time": 534,
     "timeDay": 615,
-    "timeWeek": 584,
+    "timeWeek": 583,
     "timeMonth": 550,
     "timeYear": 534,
     "dailyMinutesDown": {
@@ -752,18 +752,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png",
     "slug": "bird-nogafam-es",
     "status": "up",
-    "uptime": "95.11%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "84.63%",
-    "uptimeMonth": "93.59%",
-    "uptimeYear": "95.11%",
+    "uptime": "95.07%",
+    "uptimeDay": "90.94%",
+    "uptimeWeek": "84.72%",
+    "uptimeMonth": "93.55%",
+    "uptimeYear": "95.07%",
     "time": 1054,
     "timeDay": 940,
     "timeWeek": 1000,
     "timeMonth": 1054,
     "timeYear": 1054,
     "dailyMinutesDown": {
-      "2021-09-08": 52,
+      "2021-09-08": 43,
       "2021-09-07": 89,
       "2021-09-06": 269,
       "2021-09-05": 302,
@@ -775,7 +775,7 @@
       "2021-08-30": 252,
       "2021-08-29": 206,
       "2021-08-28": 221,
-      "2021-08-27": 127
+      "2021-08-27": 157
     }
   },
   {
