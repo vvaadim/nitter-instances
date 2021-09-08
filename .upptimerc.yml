@@ -92,6 +92,12 @@ sites:
   - name: n.hyperborea.cloud
     url: https://n.hyperborea.cloud
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: nitter.didw.to
+    url: https://nitter.didw.to
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png
+  - name: nitter.ca
+    url: https://nitter.ca
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
