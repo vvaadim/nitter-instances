@@ -500,19 +500,19 @@
     "url": "https://nitter.skrep.in",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-skrep-in",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "91.94%",
-    "uptimeWeek": "91.09%",
-    "uptimeMonth": "93.67%",
-    "uptimeYear": "98.82%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "91.89%",
+    "uptimeWeek": "91.14%",
+    "uptimeMonth": "93.72%",
+    "uptimeYear": "98.83%",
     "time": 693,
-    "timeDay": 718,
-    "timeWeek": 758,
-    "timeMonth": 852,
+    "timeDay": 702,
+    "timeWeek": 756,
+    "timeMonth": 851,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2021-09-08": 75,
+      "2021-09-08": 76,
       "2021-09-07": 81,
       "2021-09-06": 147,
       "2021-09-05": 155,
@@ -533,7 +533,7 @@
       "2021-08-20": 165,
       "2021-08-19": 159,
       "2021-08-18": 168,
-      "2021-08-17": 47
+      "2021-08-17": 25
     }
   },
   {
@@ -759,7 +759,7 @@
     "uptimeYear": "95.09%",
     "time": 1054,
     "timeDay": 953,
-    "timeWeek": 1001,
+    "timeWeek": 1000,
     "timeMonth": 1054,
     "timeYear": 1054,
     "dailyMinutesDown": {
