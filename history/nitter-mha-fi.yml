@@ -1,7 +1,7 @@
 url: https://nitter.mha.fi
-status: up
-code: 200
-responseTime: 558
-lastUpdated: 2021-09-09T13:31:49.936Z
+status: down
+code: 502
+responseTime: 538
+lastUpdated: 2021-09-09T18:34:22.018Z
 startTime: Sun Jul 04 2021 14:42:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
