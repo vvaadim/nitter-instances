@@ -1,7 +1,7 @@
 url: https://bird.nogafam.es
-status: down
-code: 503
-responseTime: 1214
-lastUpdated: 2021-10-01T15:45:39.705Z
+status: up
+code: 200
+responseTime: 726
+lastUpdated: 2021-10-01T23:26:59.916Z
 startTime: Fri Jul 30 2021 14:09:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
