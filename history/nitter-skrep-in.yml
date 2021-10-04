@@ -1,7 +1,7 @@
 url: https://nitter.skrep.in
-status: down
-code: 502
+status: up
+code: 200
 responseTime: 745
-lastUpdated: 2021-10-04T08:36:51.831Z
+lastUpdated: 2021-10-04T08:47:02.190Z
 startTime: Mon Mar 29 2021 18:26:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
