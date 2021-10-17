@@ -62,9 +62,6 @@ sites:
   - name: nitter.mha.fi
     url: https://nitter.mha.fi
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: bird.nogafam.es
-    url: https://bird.nogafam.es
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png
   - name: twitter.censors.us
     url: https://twitter.censors.us
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
