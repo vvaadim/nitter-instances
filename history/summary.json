@@ -4,19 +4,19 @@
     "url": "https://nitter.42l.fr",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png",
     "slug": "nitter-42l-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "55.81%",
-    "uptimeWeek": "55.81%",
-    "uptimeMonth": "55.81%",
+    "uptimeDay": "58.94%",
+    "uptimeWeek": "58.94%",
+    "uptimeMonth": "58.94%",
     "uptimeYear": "0.00%",
     "time": 816,
-    "timeDay": 882,
-    "timeWeek": 882,
-    "timeMonth": 882,
+    "timeDay": 816,
+    "timeWeek": 816,
+    "timeMonth": 816,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2021-10-17": 40,
+      "2021-10-17": 42,
       "2021-08-14": 247,
       "2021-08-13": 1415,
       "2021-08-12": 1418,
@@ -46,7 +46,7 @@
       "2021-07-19": 1394,
       "2021-07-18": 1374,
       "2021-07-17": 1239,
-      "2021-07-16": 770
+      "2021-07-16": 693
     }
   },
   {
@@ -136,8 +136,8 @@
     "status": "down",
     "uptime": "97.90%",
     "uptimeDay": "13.24%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "96.76%",
+    "uptimeWeek": "86.25%",
+    "uptimeMonth": "96.73%",
     "uptimeYear": "97.90%",
     "time": 983,
     "timeDay": 9109,
@@ -145,7 +145,7 @@
     "timeMonth": 2444,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2021-10-17": 302,
+      "2021-10-17": 313,
       "2021-10-16": 1073,
       "2021-10-04": 24,
       "2021-10-02": 21,
@@ -542,7 +542,7 @@
     "uptime": "95.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.92%",
+    "uptimeMonth": "64.89%",
     "uptimeYear": "95.21%",
     "time": 777,
     "timeDay": 0,
@@ -550,7 +550,7 @@
     "timeMonth": 892,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2021-10-17": 462,
+      "2021-10-17": 472,
       "2021-10-16": 1440,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
@@ -610,7 +610,7 @@
     "timeMonth": 178,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2021-10-17": 134
+      "2021-10-17": 145
     }
   },
   {
@@ -630,7 +630,7 @@
     "timeMonth": 1161,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2021-10-17": 130,
+      "2021-10-17": 140,
       "2021-08-14": 281,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
@@ -692,7 +692,7 @@
     "timeMonth": 406,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2021-10-17": 89,
+      "2021-10-17": 100,
       "2021-09-01": 1017,
       "2021-08-31": 1440,
       "2021-08-30": 1440,
@@ -1027,9 +1027,9 @@
     "url": "https://n.hyperborea.cloud",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "n-hyperborea-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "95.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "93.13%",
     "uptimeYear": "95.70%",
@@ -1039,6 +1039,7 @@
     "timeMonth": 269,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2021-10-17": 1,
       "2021-10-13": 17,
       "2021-10-12": 20,
       "2021-10-05": 19,
