@@ -85,8 +85,8 @@
     "slug": "nitter-fdn-fr",
     "status": "down",
     "uptime": "97.93%",
-    "uptimeDay": "11.92%",
-    "uptimeWeek": "87.42%",
+    "uptimeDay": "11.85%",
+    "uptimeWeek": "87.41%",
     "uptimeMonth": "97.00%",
     "uptimeYear": "97.93%",
     "time": 889,
@@ -95,7 +95,7 @@
     "timeMonth": 1568,
     "timeYear": 889,
     "dailyMinutesDown": {
-      "2021-10-17": 195,
+      "2021-10-17": 197,
       "2021-10-16": 1073,
       "2021-10-04": 24,
       "2021-10-02": 21,
@@ -500,7 +500,7 @@
     "timeMonth": 892,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2021-10-17": 333,
+      "2021-10-17": 334,
       "2021-10-16": 1440,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
@@ -549,18 +549,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png",
     "slug": "nitter-hu",
     "status": "down",
-    "uptime": "0.20%",
-    "uptimeDay": "0.20%",
-    "uptimeWeek": "0.20%",
-    "uptimeMonth": "0.20%",
-    "uptimeYear": "0.20%",
+    "uptime": "0.32%",
+    "uptimeDay": "0.32%",
+    "uptimeWeek": "0.32%",
+    "uptimeMonth": "0.32%",
+    "uptimeYear": "0.32%",
     "time": 390,
     "timeDay": 171,
     "timeWeek": 171,
     "timeMonth": 171,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2021-10-17": 5
+      "2021-10-17": 6
     }
   },
   {
@@ -570,9 +570,9 @@
     "slug": "nitter-exonip-de",
     "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "4.52%",
-    "uptimeWeek": "4.52%",
-    "uptimeMonth": "4.52%",
+    "uptimeDay": "1.58%",
+    "uptimeWeek": "1.58%",
+    "uptimeMonth": "1.58%",
     "uptimeYear": "0.00%",
     "time": 1282,
     "timeDay": 1025,
@@ -580,7 +580,7 @@
     "timeMonth": 1025,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2021-10-17": 1,
+      "2021-10-17": 2,
       "2021-08-14": 281,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
@@ -631,18 +631,17 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-skrep-in",
     "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "87.33%",
-    "uptimeWeek": "90.55%",
-    "uptimeMonth": "93.30%",
-    "uptimeYear": "98.99%",
+    "uptime": "98.98%",
+    "uptimeDay": "87.62%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "93.26%",
+    "uptimeYear": "98.98%",
     "time": 701,
     "timeDay": 626,
     "timeWeek": 689,
     "timeMonth": 713,
     "timeYear": 701,
     "dailyMinutesDown": {
-      "2021-10-17": 4,
       "2021-10-16": 199,
       "2021-10-15": 201,
       "2021-10-14": 102,
@@ -664,7 +663,7 @@
       "2021-09-28": 108,
       "2021-09-27": 164,
       "2021-09-26": 142,
-      "2021-09-25": 25
+      "2021-09-25": 45
     }
   },
   {
