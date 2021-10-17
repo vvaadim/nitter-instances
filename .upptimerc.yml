@@ -86,6 +86,9 @@ sites:
   - name: nitter.ca
     url: https://nitter.ca
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: twitter.076.ne.jp
+    url: https://twitter.076.ne.jp
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
