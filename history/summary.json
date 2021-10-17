@@ -4,16 +4,16 @@
     "url": "https://nitter.42l.fr",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png",
     "slug": "nitter-42l-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "59.43%",
-    "uptimeWeek": "59.43%",
-    "uptimeMonth": "59.43%",
+    "uptimeDay": "60.52%",
+    "uptimeWeek": "60.52%",
+    "uptimeMonth": "60.52%",
     "uptimeYear": "0.00%",
     "time": 816,
-    "timeDay": 819,
-    "timeWeek": 819,
-    "timeMonth": 819,
+    "timeDay": 806,
+    "timeWeek": 806,
+    "timeMonth": 806,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2021-10-17": 126,
@@ -46,7 +46,7 @@
       "2021-07-19": 1394,
       "2021-07-18": 1374,
       "2021-07-17": 1239,
-      "2021-07-16": 209
+      "2021-07-16": 68
     }
   },
   {
@@ -133,19 +133,19 @@
     "url": "https://nitter.fdn.fr",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png",
     "slug": "nitter-fdn-fr",
-    "status": "down",
-    "uptime": "97.84%",
-    "uptimeDay": "13.89%",
-    "uptimeWeek": "84.28%",
-    "uptimeMonth": "96.28%",
-    "uptimeYear": "97.84%",
-    "time": 1022,
-    "timeDay": 9934,
-    "timeWeek": 6132,
-    "timeMonth": 2791,
-    "timeYear": 1022,
+    "status": "up",
+    "uptime": "97.83%",
+    "uptimeDay": "13.92%",
+    "uptimeWeek": "84.19%",
+    "uptimeMonth": "96.26%",
+    "uptimeYear": "97.83%",
+    "time": 1024,
+    "timeDay": 9187,
+    "timeWeek": 5887,
+    "timeMonth": 2767,
+    "timeYear": 1024,
     "dailyMinutesDown": {
-      "2021-10-17": 511,
+      "2021-10-17": 520,
       "2021-10-16": 1073,
       "2021-10-04": 24,
       "2021-10-02": 21,
@@ -542,7 +542,7 @@
     "uptime": "95.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "64.42%",
+    "uptimeMonth": "64.40%",
     "uptimeYear": "95.15%",
     "time": 777,
     "timeDay": 0,
@@ -550,7 +550,7 @@
     "timeMonth": 892,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2021-10-17": 680,
+      "2021-10-17": 690,
       "2021-10-16": 1440,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
@@ -610,7 +610,7 @@
     "timeMonth": 178,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2021-10-17": 353
+      "2021-10-17": 362
     }
   },
   {
@@ -630,7 +630,7 @@
     "timeMonth": 1161,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2021-10-17": 348,
+      "2021-10-17": 358,
       "2021-08-14": 281,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
@@ -692,7 +692,7 @@
     "timeMonth": 406,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2021-10-17": 308,
+      "2021-10-17": 317,
       "2021-09-01": 1017,
       "2021-08-31": 1440,
       "2021-08-30": 1440,
