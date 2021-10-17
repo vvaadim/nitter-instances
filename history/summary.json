@@ -4,16 +4,16 @@
     "url": "https://nitter.42l.fr",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png",
     "slug": "nitter-42l-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "41.23%",
-    "uptimeWeek": "41.23%",
-    "uptimeMonth": "41.23%",
+    "uptimeDay": "43.88%",
+    "uptimeWeek": "43.88%",
+    "uptimeMonth": "43.88%",
     "uptimeYear": "0.00%",
     "time": 818,
-    "timeDay": 856,
-    "timeWeek": 856,
-    "timeMonth": 856,
+    "timeDay": 854,
+    "timeWeek": 854,
+    "timeMonth": 854,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2021-10-17": 570,
@@ -45,7 +45,7 @@
       "2021-07-20": 1407,
       "2021-07-19": 1394,
       "2021-07-18": 1374,
-      "2021-07-17": 196
+      "2021-07-17": 167
     }
   },
   {
@@ -134,7 +134,7 @@
     "slug": "nitter-fdn-fr",
     "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "41.45%",
+    "uptimeDay": "42.48%",
     "uptimeWeek": "81.65%",
     "uptimeMonth": "95.68%",
     "uptimeYear": "97.76%",
@@ -538,18 +538,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-cattube-org",
     "status": "down",
-    "uptime": "94.96%",
+    "uptime": "94.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.91%",
-    "uptimeYear": "94.96%",
+    "uptimeMonth": "62.80%",
+    "uptimeYear": "94.94%",
     "time": 777,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 892,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2021-10-17": 1342,
+      "2021-10-17": 1389,
       "2021-10-16": 1440,
       "2021-10-15": 1440,
       "2021-10-14": 1440,
@@ -609,7 +609,7 @@
     "timeMonth": 178,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2021-10-17": 1015
+      "2021-10-17": 1061
     }
   },
   {
@@ -629,7 +629,7 @@
     "timeMonth": 1161,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2021-10-17": 1010,
+      "2021-10-17": 1057,
       "2021-08-14": 281,
       "2021-08-13": 1440,
       "2021-08-12": 1440,
@@ -691,7 +691,7 @@
     "timeMonth": 406,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2021-10-17": 970,
+      "2021-10-17": 1016,
       "2021-09-01": 1017,
       "2021-08-31": 1440,
       "2021-08-30": 1440,
@@ -886,11 +886,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/it.png",
     "slug": "nitter-it",
     "status": "up",
-    "uptime": "95.86%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "95.86%",
-    "uptimeMonth": "95.86%",
-    "uptimeYear": "95.86%",
+    "uptime": "96.05%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "96.05%",
+    "uptimeYear": "96.05%",
     "time": 734,
     "timeDay": 734,
     "timeWeek": 734,
