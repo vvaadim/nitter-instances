@@ -2,6 +2,9 @@ owner: xnaas
 repo: nitter-instances
 
 sites:
+  - name: nitter.42l.fr
+    url: https://nitter.42l.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
   - name: nitter.pussthecat.org
     url: https://nitter.pussthecat.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
@@ -53,9 +56,9 @@ sites:
   - name: nitter.exonip.de
     url: https://nitter.exonip.de
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.skrep.in
-    url: https://nitter.skrep.in
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: twitr.gq
+    url: https://twitr.gq
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
   - name: nitter.koyu.space
     url: https://nitter.koyu.space
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
@@ -65,9 +68,9 @@ sites:
   - name: bird.trom.tf
     url: https://bird.trom.tf
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.mha.fi
-    url: https://nitter.mha.fi
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.it
+    url: https://nitter.it
+    url: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/it.png
   - name: twitter.censors.us
     url: https://twitter.censors.us
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
