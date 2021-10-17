@@ -70,7 +70,7 @@ sites:
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.it
     url: https://nitter.it
-    url: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/it.png
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/it.png
   - name: twitter.censors.us
     url: https://twitter.censors.us
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
