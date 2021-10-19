@@ -6,9 +6,9 @@
     "slug": "nitter-42l-fr",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "41.48%",
-    "uptimeWeek": "42.55%",
-    "uptimeMonth": "42.55%",
+    "uptimeDay": "42.79%",
+    "uptimeWeek": "43.07%",
+    "uptimeMonth": "43.07%",
     "uptimeYear": "0.00%",
     "time": 816,
     "timeDay": 766,
@@ -16,7 +16,7 @@
     "timeMonth": 817,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2021-10-19": 168,
+      "2021-10-19": 158,
       "2021-10-18": 897,
       "2021-10-17": 570,
       "2021-08-14": 247,
@@ -42,7 +42,7 @@
       "2021-07-25": 1323,
       "2021-07-24": 1339,
       "2021-07-23": 1351,
-      "2021-07-22": 18
+      "2021-07-22": 175
     }
   },
   {
@@ -538,7 +538,7 @@
     "uptime": "94.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "58.63%",
+    "uptimeMonth": "58.60%",
     "uptimeYear": "94.42%",
     "time": 777,
     "timeDay": 0,
@@ -546,7 +546,7 @@
     "timeMonth": 878,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2021-10-19": 339,
+      "2021-10-19": 348,
       "2021-10-18": 1440,
       "2021-10-17": 1440,
       "2021-10-16": 1440,
@@ -608,7 +608,7 @@
     "timeMonth": 155,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2021-10-19": 339,
+      "2021-10-19": 348,
       "2021-10-18": 1440,
       "2021-10-17": 1112
     }
@@ -630,7 +630,7 @@
     "timeMonth": 1029,
     "timeYear": 1277,
     "dailyMinutesDown": {
-      "2021-10-19": 339,
+      "2021-10-19": 348,
       "2021-10-18": 1440,
       "2021-10-17": 1108,
       "2021-08-14": 281,
@@ -694,7 +694,7 @@
     "timeMonth": 316,
     "timeYear": 531,
     "dailyMinutesDown": {
-      "2021-10-19": 339,
+      "2021-10-19": 348,
       "2021-10-18": 1440,
       "2021-10-17": 1067,
       "2021-09-01": 1017,
@@ -892,11 +892,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/it.png",
     "slug": "nitter-it",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "98.70%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "97.93%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "97.94%",
     "time": 599,
     "timeDay": 311,
     "timeWeek": 599,
@@ -1084,19 +1084,19 @@
     "url": "https://twitter.076.ne.jp",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png",
     "slug": "twitter-076-ne-jp",
-    "status": "down",
-    "uptime": "98.59%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
-    "time": 924,
-    "timeDay": 963,
-    "timeWeek": 924,
-    "timeMonth": 924,
-    "timeYear": 924,
+    "status": "up",
+    "uptime": "98.30%",
+    "uptimeDay": "96.58%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "98.30%",
+    "uptimeYear": "98.30%",
+    "time": 874,
+    "timeDay": 771,
+    "timeWeek": 874,
+    "timeMonth": 874,
+    "timeYear": 874,
     "dailyMinutesDown": {
-      "2021-10-19": 41
+      "2021-10-19": 49
     }
   }
 ]
