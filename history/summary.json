@@ -4,16 +4,16 @@
     "url": "https://nitter.42l.fr",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png",
     "slug": "nitter-42l-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "0.00%",
-    "uptimeDay": "54.34%",
-    "uptimeWeek": "47.07%",
-    "uptimeMonth": "47.07%",
+    "uptimeDay": "54.32%",
+    "uptimeWeek": "47.16%",
+    "uptimeMonth": "47.16%",
     "uptimeYear": "0.00%",
     "time": 812,
-    "timeDay": 757,
-    "timeWeek": 799,
-    "timeMonth": 799,
+    "timeDay": 753,
+    "timeWeek": 798,
+    "timeMonth": 798,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2021-10-20": 268,
@@ -39,7 +39,7 @@
       "2021-07-29": 1430,
       "2021-07-28": 1394,
       "2021-07-27": 1327,
-      "2021-07-26": 1047
+      "2021-07-26": 993
     }
   },
   {
@@ -535,7 +535,7 @@
     "uptime": "93.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "54.51%",
+    "uptimeMonth": "54.49%",
     "uptimeYear": "93.91%",
     "time": 777,
     "timeDay": 0,
@@ -543,7 +543,7 @@
     "timeMonth": 868,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2021-10-20": 701,
+      "2021-10-20": 710,
       "2021-10-19": 1440,
       "2021-10-18": 1440,
       "2021-10-17": 1440,
@@ -606,7 +606,7 @@
     "timeMonth": 161,
     "timeYear": 341,
     "dailyMinutesDown": {
-      "2021-10-20": 701,
+      "2021-10-20": 710,
       "2021-10-19": 1440,
       "2021-10-18": 1440,
       "2021-10-17": 1112
@@ -629,7 +629,7 @@
     "timeMonth": 1882,
     "timeYear": 1306,
     "dailyMinutesDown": {
-      "2021-10-20": 701,
+      "2021-10-20": 710,
       "2021-10-19": 1440,
       "2021-10-18": 1440,
       "2021-10-17": 1108,
@@ -694,7 +694,7 @@
     "timeMonth": 263,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2021-10-20": 701,
+      "2021-10-20": 710,
       "2021-10-19": 1440,
       "2021-10-18": 1440,
       "2021-10-17": 1067,
@@ -847,9 +847,9 @@
     "slug": "bird-trom-tf",
     "status": "up",
     "uptime": "97.94%",
-    "uptimeDay": "85.15%",
-    "uptimeWeek": "89.49%",
-    "uptimeMonth": "92.70%",
+    "uptimeDay": "85.83%",
+    "uptimeWeek": "89.59%",
+    "uptimeMonth": "92.68%",
     "uptimeYear": "97.94%",
     "time": 539,
     "timeDay": 559,
@@ -857,7 +857,7 @@
     "timeMonth": 538,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2021-10-20": 75,
+      "2021-10-20": 65,
       "2021-10-19": 226,
       "2021-10-18": 104,
       "2021-10-17": 39,
@@ -883,7 +883,7 @@
       "2021-09-27": 386,
       "2021-09-26": 128,
       "2021-09-25": 69,
-      "2021-09-24": 36
+      "2021-09-24": 54
     }
   },
   {
