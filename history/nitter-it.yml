@@ -1,7 +1,7 @@
 url: https://nitter.it
-status: up
-code: 200
-responseTime: 303
-lastUpdated: 2021-10-22T15:24:31.635Z
+status: down
+code: 502
+responseTime: 256
+lastUpdated: 2021-10-22T20:53:09.903Z
 startTime: Sun Oct 17 2021 06:12:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
