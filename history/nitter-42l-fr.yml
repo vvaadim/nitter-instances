@@ -1,7 +1,7 @@
 url: https://nitter.42l.fr
-status: up
-code: 200
-responseTime: 1069
-lastUpdated: 2021-10-24T13:40:41.224Z
+status: down
+code: 403
+responseTime: 463
+lastUpdated: 2021-10-24T13:50:24.680Z
 startTime: Sun Oct 17 2021 06:11:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
