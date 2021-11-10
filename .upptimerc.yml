@@ -32,9 +32,6 @@ sites:
   - name: nitter.eu
     url: https://nitter.eu
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
-  - name: nitter.ethibox.fr
-    url: https://nitter.ethibox.fr
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
   - name: nitter.namazso.eu
     url: https://nitter.namazso.eu
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
@@ -98,6 +95,24 @@ sites:
   - name: twitter.076.ne.jp
     url: https://twitter.076.ne.jp
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
+  - name: lu-nitter.resolv.ee
+    url: https://lu-nitter.resolv.ee
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/lu.png
+  - name: is-nitter.resolv.ee
+    url: https://is-nitter.resolv.ee
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/is.png
+  - name: cy-nitter.resolv.ee
+    url: https://cy-nitter.resolv.ee
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cy.png
+  - name: nitter.mstdn.social
+    url: https://nitter.mstdn.social
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.fly.dev
+    url: https://nitter.fly.dev
+    icon: 🌏
+  - name: notabird.site
+    url: https://notabird.site
+    icon: 🌏
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
