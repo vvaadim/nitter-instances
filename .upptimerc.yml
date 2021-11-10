@@ -40,10 +40,7 @@ sites:
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.actionsack.com
     url: https://nitter.actionsack.com
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: nitter.cattube.org
-    url: https://nitter.cattube.org
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us-tx.png
   - name: birdsite.xanny.family
     url: https://birdsite.xanny.family
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/gb.png
@@ -109,10 +106,10 @@ sites:
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.fly.dev
     url: https://nitter.fly.dev
-    icon: 🌏
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
   - name: notabird.site
     url: https://notabird.site
-    icon: 🌏
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
