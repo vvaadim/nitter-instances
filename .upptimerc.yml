@@ -110,6 +110,9 @@ sites:
   - name: notabird.site
     url: https://notabird.site
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
+  - name: nitter-jp.kavin.rocks
+    url: https://nitter-jp.kavin.rocks
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
