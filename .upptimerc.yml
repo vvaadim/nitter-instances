@@ -113,6 +113,9 @@ sites:
   - name: nitter-jp.kavin.rocks
     url: https://nitter-jp.kavin.rocks
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
+  - name: nitter.weiler.rocks
+    url: https://nitter.weiler.rocks
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
