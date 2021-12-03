@@ -98,9 +98,6 @@ sites:
   - name: is-nitter.resolv.ee
     url: https://is-nitter.resolv.ee
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/is.png
-  - name: cy-nitter.resolv.ee
-    url: https://cy-nitter.resolv.ee
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/cy.png
   - name: nitter.mstdn.social
     url: https://nitter.mstdn.social
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
