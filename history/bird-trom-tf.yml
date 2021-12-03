@@ -1,7 +1,7 @@
 url: https://bird.trom.tf
-status: up
-code: 200
-responseTime: 662
-lastUpdated: 2021-12-03T23:10:32.323Z
+status: down
+code: 502
+responseTime: 597
+lastUpdated: 2021-12-03T23:51:37.276Z
 startTime: Sun Jul 04 2021 14:42:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
