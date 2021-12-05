@@ -116,8 +116,8 @@ sites:
   - name: nitter.sethforprivacy.com
     url: https://nitter.sethforprivacy.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.hitman.cloud
-    url: https://nitter.hitman.cloud
+  - name: nttr.stream
+    url: https://nttr.stream
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
 
 status-website:
