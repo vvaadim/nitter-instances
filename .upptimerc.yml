@@ -2,6 +2,9 @@ owner: xnaas
 repo: nitter-instances
 
 sites:
+  - name: nitter.net
+    url: https://nitter.net
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.42l.fr
     url: https://nitter.42l.fr
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
