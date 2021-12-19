@@ -1,7 +1,7 @@
 url: https://nitter.mstdn.social
-status: up
-code: 200
-responseTime: 990
-lastUpdated: 2021-12-19T19:39:15.717Z
+status: down
+code: 502
+responseTime: 961
+lastUpdated: 2021-12-19T20:35:43.805Z
 startTime: Wed Nov 10 2021 20:15:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
