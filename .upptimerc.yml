@@ -23,9 +23,6 @@ sites:
   - name: nitter.kavin.rocks
     url: https://nitter.kavin.rocks
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/in.png
-  - name: nitter.vxempire.xyz
-    url: https://nitter.vxempire.xyz
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/es.png
   - name: nitter.unixfox.eu
     url: https://nitter.unixfox.eu
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
@@ -83,9 +80,6 @@ sites:
   - name: nitter.autarkic.org
     url: https://nitter.autarkic.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: n.0x0.st
-    url: https://n.0x0.st
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: n.hyperborea.cloud
     url: https://n.hyperborea.cloud
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
@@ -98,9 +92,6 @@ sites:
   - name: lu-nitter.resolv.ee
     url: https://lu-nitter.resolv.ee
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/lu.png
-  - name: is-nitter.resolv.ee
-    url: https://is-nitter.resolv.ee
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/is.png
   - name: nitter.mstdn.social
     url: https://nitter.mstdn.social
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
