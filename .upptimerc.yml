@@ -122,6 +122,9 @@ sites:
   - name: nttr.stream
     url: https://nttr.stream
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.cutelab.space
+    url: https://nitter.cutelab.space
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us-tx.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
