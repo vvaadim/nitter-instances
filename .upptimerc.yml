@@ -59,6 +59,9 @@ sites:
   - name: nitter.moomoo.me
     url: https://nitter.moomoo.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nittereu.moomoo.me
+    url: https://nittereu.moomoo.me
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/se.png
   - name: bird.trom.tf
     url: https://bird.trom.tf
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
