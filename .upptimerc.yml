@@ -116,6 +116,9 @@ sites:
   - name: nitter.cutelab.space
     url: https://nitter.cutelab.space
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us-tx.png
+  - name: nitter.nl
+    url: https://nitter.nl
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/nl.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
