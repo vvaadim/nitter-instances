@@ -202,15 +202,15 @@
     "url": "https://nitter.42l.fr",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png",
     "slug": "nitter-42l-fr",
-    "status": "up",
-    "uptime": "95.72%",
-    "uptimeDay": "35.81%",
-    "uptimeWeek": "54.59%",
-    "uptimeMonth": "89.55%",
-    "uptimeYear": "95.72%",
+    "status": "down",
+    "uptime": "95.85%",
+    "uptimeDay": "37.06%",
+    "uptimeWeek": "55.91%",
+    "uptimeMonth": "89.85%",
+    "uptimeYear": "95.85%",
     "time": 780,
-    "timeDay": 792,
-    "timeWeek": 790,
+    "timeDay": 793,
+    "timeWeek": 791,
     "timeMonth": 772,
     "timeYear": 780,
     "dailyMinutesDown": {
@@ -220,8 +220,7 @@
       "2021-12-27": 666,
       "2021-12-26": 458,
       "2021-12-25": 495,
-      "2021-12-24": 786,
-      "2021-12-23": 27
+      "2021-12-24": 680
     }
   },
   {
@@ -690,11 +689,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png",
     "slug": "nitter-hu",
     "status": "up",
-    "uptime": "72.33%",
+    "uptime": "72.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "72.33%",
+    "uptimeYear": "72.34%",
     "time": 507,
     "timeDay": 460,
     "timeWeek": 700,
@@ -743,7 +742,7 @@
     "timeMonth": 1065,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2021-12-30": 834,
+      "2021-12-30": 868,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -879,7 +878,7 @@
     "timeMonth": 609,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2021-12-30": 834,
+      "2021-12-30": 868,
       "2021-12-29": 1440,
       "2021-12-28": 1440,
       "2021-12-27": 1440,
@@ -1118,9 +1117,9 @@
     "slug": "bird-trom-tf",
     "status": "up",
     "uptime": "98.96%",
-    "uptimeDay": "83.23%",
-    "uptimeWeek": "90.24%",
-    "uptimeMonth": "93.89%",
+    "uptimeDay": "83.89%",
+    "uptimeWeek": "90.34%",
+    "uptimeMonth": "93.87%",
     "uptimeYear": "98.96%",
     "time": 551,
     "timeDay": 520,
@@ -1128,7 +1127,7 @@
     "timeMonth": 565,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2021-12-30": 134,
+      "2021-12-30": 124,
       "2021-12-29": 227,
       "2021-12-28": 291,
       "2021-12-27": 83,
@@ -1148,7 +1147,7 @@
       "2021-12-13": 168,
       "2021-12-12": 97,
       "2021-12-11": 235,
-      "2021-12-10": 110
+      "2021-12-10": 130
     }
   },
   {
@@ -1471,19 +1470,19 @@
     "url": "https://nitter.mstdn.social",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-mstdn-social",
-    "status": "up",
-    "uptime": "96.61%",
-    "uptimeDay": "88.14%",
-    "uptimeWeek": "95.35%",
-    "uptimeMonth": "95.84%",
-    "uptimeYear": "96.61%",
+    "status": "down",
+    "uptime": "96.64%",
+    "uptimeDay": "89.27%",
+    "uptimeWeek": "95.34%",
+    "uptimeMonth": "95.83%",
+    "uptimeYear": "96.64%",
     "time": 722,
-    "timeDay": 726,
-    "timeWeek": 730,
+    "timeDay": 717,
+    "timeWeek": 728,
     "timeMonth": 709,
     "timeYear": 722,
     "dailyMinutesDown": {
-      "2021-12-30": 113,
+      "2021-12-30": 115,
       "2021-12-29": 93,
       "2021-12-28": 78,
       "2021-12-26": 35,
@@ -1523,8 +1522,7 @@
       "2021-11-20": 18,
       "2021-11-19": 30,
       "2021-11-17": 16,
-      "2021-11-16": 21,
-      "2021-11-13": 21
+      "2021-11-16": 21
     }
   },
   {
