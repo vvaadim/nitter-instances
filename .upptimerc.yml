@@ -12,7 +12,7 @@ sites:
     url: https://nitter.pussthecat.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.nixnet.services
-    url: https://nitter.nixnet.services
+    url: https://nitter:nitter@nitter.nixnet.services
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.fdn.fr
     url: https://nitter.fdn.fr
