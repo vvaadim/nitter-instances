@@ -47,9 +47,6 @@ sites:
   - name: nitter.hu
     url: https://nitter.hu
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png
-  - name: nitter.exonip.de
-    url: https://nitter.exonip.de
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: twitr.gq
     url: https://twitr.gq
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
