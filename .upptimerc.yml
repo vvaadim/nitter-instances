@@ -89,9 +89,6 @@ sites:
   - name: twitter.076.ne.jp
     url: https://twitter.076.ne.jp
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/jp.png
-  - name: lu-nitter.resolv.ee
-    url: https://lu-nitter.resolv.ee
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/lu.png
   - name: nitter.mstdn.social
     url: https://nitter.mstdn.social
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
