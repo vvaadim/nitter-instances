@@ -125,6 +125,8 @@ sites:
   - name: nitter.bus-hit.me
     url: https://nitter.bus-hit.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+    assignees:
+      - austinhuang0131
   - name: fuckthesacklers.network
     url: https://fuckthesacklers.network
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
