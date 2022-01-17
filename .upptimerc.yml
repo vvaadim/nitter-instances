@@ -74,9 +74,6 @@ sites:
   - name: nitter.alefvanoon.xyz
     url: https://nitter.alefvanoon.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: nitter.ir
-    url: https://nitter.ir
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
   - name: nitter.autarkic.org
     url: https://nitter.autarkic.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
