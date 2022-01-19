@@ -760,7 +760,7 @@
     "timeMonth": 1303,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2022-01-19": 888,
+      "2022-01-19": 899,
       "2022-01-18": 1440,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
@@ -988,7 +988,7 @@
     "time": 705,
     "timeDay": 376,
     "timeWeek": 678,
-    "timeMonth": 370,
+    "timeMonth": 337,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2022-01-17": 29,
@@ -1256,9 +1256,9 @@
     "slug": "n-hyperborea-cloud",
     "status": "up",
     "uptime": "96.65%",
-    "uptimeDay": "96.50%",
-    "uptimeWeek": "97.05%",
-    "uptimeMonth": "98.65%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "96.65%",
     "time": 1662,
     "timeDay": 1209,
@@ -1266,7 +1266,7 @@
     "timeMonth": 1838,
     "timeYear": 1662,
     "dailyMinutesDown": {
-      "2022-01-19": 28,
+      "2022-01-19": 18,
       "2022-01-18": 23,
       "2022-01-17": 53,
       "2022-01-16": 26,
@@ -1598,10 +1598,10 @@
     "url": "https://nitter.mint.lgbt",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "nitter-mint-lgbt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 572,
@@ -1610,6 +1610,7 @@
     "timeMonth": 572,
     "timeYear": 572,
     "dailyMinutesDown": {
+      "2022-01-19": 1,
       "2022-01-05": 31
     }
   },
