@@ -731,7 +731,7 @@
     "timeMonth": 1244,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2022-01-24": 1290,
+      "2022-01-24": 1291,
       "2022-01-23": 1440,
       "2022-01-22": 1440,
       "2022-01-21": 1440,
@@ -1499,11 +1499,11 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "nitter-sethforprivacy-com",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.46%",
-    "uptimeYear": "97.54%",
+    "uptimeYear": "97.55%",
     "time": 504,
     "timeDay": 490,
     "timeWeek": 538,
@@ -1664,18 +1664,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png",
     "slug": "nitter-govt-land",
     "status": "down",
-    "uptime": "1.61%",
-    "uptimeDay": "1.61%",
-    "uptimeWeek": "1.61%",
-    "uptimeMonth": "1.61%",
-    "uptimeYear": "1.61%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 757,
     "timeDay": 757,
     "timeWeek": 757,
     "timeMonth": 757,
     "timeYear": 757,
     "dailyMinutesDown": {
-      "2022-01-24": 2
+      "2022-01-24": 4
     }
   }
 ]
