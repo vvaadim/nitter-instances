@@ -124,6 +124,9 @@ sites:
   - name: fuckthesacklers.network
     url: https://fuckthesacklers.network
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
+  - name: nitter.govt.land
+    url: https://nitter.govt.land
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
