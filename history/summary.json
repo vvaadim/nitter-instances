@@ -733,7 +733,8 @@
     "timeMonth": 1112,
     "timeYear": 583,
     "dailyMinutesDown": {
-      "2022-01-25": 1431,
+      "2022-01-26": 0,
+      "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
       "2022-01-22": 1440,
@@ -1222,8 +1223,8 @@
     "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "85.11%",
-    "uptimeMonth": "96.57%",
+    "uptimeWeek": "85.02%",
+    "uptimeMonth": "96.55%",
     "uptimeYear": "99.31%",
     "time": 367,
     "timeDay": 0,
@@ -1231,7 +1232,8 @@
     "timeMonth": 359,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2022-01-25": 1431,
+      "2022-01-26": 1,
+      "2022-01-25": 1440,
       "2022-01-24": 69,
       "2021-11-07": 19
     }
@@ -1671,19 +1673,20 @@
     "url": "https://nitter.govt.land",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png",
     "slug": "nitter-govt-land",
-    "status": "up",
-    "uptime": "61.24%",
-    "uptimeDay": "62.04%",
-    "uptimeWeek": "61.24%",
-    "uptimeMonth": "61.24%",
-    "uptimeYear": "61.24%",
-    "time": 625,
-    "timeDay": 624,
-    "timeWeek": 625,
-    "timeMonth": 625,
-    "timeYear": 625,
+    "status": "down",
+    "uptime": "61.35%",
+    "uptimeDay": "62.53%",
+    "uptimeWeek": "61.35%",
+    "uptimeMonth": "61.35%",
+    "uptimeYear": "61.35%",
+    "time": 623,
+    "timeDay": 621,
+    "timeWeek": 623,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2022-01-25": 538,
+      "2022-01-26": 1,
+      "2022-01-25": 539,
       "2022-01-24": 75
     }
   }
