@@ -127,6 +127,12 @@ sites:
   - name: nitter.govt.land
     url: https://nitter.govt.land
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
+  - name: nitter.datatunnel.xyz
+    url: https://nitter.datatunnel.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
+  - name: nitter.esmailelbob.xyz
+    url: https://nitter.esmailelbob.xyz
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
