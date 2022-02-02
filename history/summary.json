@@ -281,7 +281,7 @@
     "uptime": "98.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.08%",
+    "uptimeMonth": "97.09%",
     "uptimeYear": "98.34%",
     "time": 1206,
     "timeDay": 690,
@@ -736,7 +736,7 @@
     "timeMonth": 1203,
     "timeYear": 578,
     "dailyMinutesDown": {
-      "2022-02-02": 1022,
+      "2022-02-02": 1024,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
       "2022-01-30": 1440,
@@ -1178,18 +1178,18 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png",
     "slug": "n-hyperborea-cloud",
     "status": "down",
-    "uptime": "98.18%",
-    "uptimeDay": "95.80%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "98.18%",
+    "uptime": "98.15%",
+    "uptimeDay": "95.93%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "97.82%",
+    "uptimeYear": "98.15%",
     "time": 1916,
     "timeDay": 3317,
     "timeWeek": 3175,
     "timeMonth": 2543,
     "timeYear": 1916,
     "dailyMinutesDown": {
-      "2022-02-02": 60,
+      "2022-02-02": 58,
       "2022-01-31": 17,
       "2022-01-30": 57,
       "2022-01-29": 78,
@@ -1255,7 +1255,7 @@
       "2021-10-26": 31,
       "2021-10-25": 62,
       "2021-10-22": 36,
-      "2021-10-21": 24
+      "2021-10-21": 105
     }
   },
   {
