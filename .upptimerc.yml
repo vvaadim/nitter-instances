@@ -127,6 +127,12 @@ sites:
   - name: nitter.esmailelbob.xyz
     url: https://nitter.esmailelbob.xyz
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: tw.artemislena.eu
+    url: https://tw.artemislena.eu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.eu.org
+    url: https://nitter.eu.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
