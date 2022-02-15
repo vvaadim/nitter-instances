@@ -133,6 +133,9 @@ sites:
   - name: nitter.eu.org
     url: https://nitter.eu.org
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
+  - name: de.nttr.stream
+    url: https://de.nttr.stream
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
