@@ -139,6 +139,9 @@ sites:
   - name: nitter.winscloud.net
     url: https://nitter.winscloud.net
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/th.png
+  - name: nitter.tiekoetter.com
+    url: https://nitter.tiekoetter.com
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
