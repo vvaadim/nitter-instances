@@ -1,7 +1,7 @@
 url: https://nitter.winscloud.net
-status: up
-code: 200
-responseTime: 1596
-lastUpdated: 2022-02-21T03:40:30.825Z
+status: down
+code: 503
+responseTime: 4417
+lastUpdated: 2022-02-21T22:41:17.596Z
 startTime: Fri Feb 18 2022 14:09:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
