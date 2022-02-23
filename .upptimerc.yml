@@ -136,6 +136,12 @@ sites:
   - name: nitter.tiekoetter.com
     url: https://nitter.tiekoetter.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.spaceint.fr
+    url: https://nitter.spaceint.fr
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: twtr.bch.bar
+    url: https://twtr.bch.bar
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
