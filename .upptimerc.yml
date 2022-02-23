@@ -107,9 +107,6 @@ sites:
   - name: nitter.mint.lgbt
     url: https://nitter.mint.lgbt
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
-  - name: nitter.tokhmi.xyz
-    url: https://nitter.tokhmi.xyz
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
   - name: nitter.bus-hit.me
     url: https://nitter.bus-hit.me
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
