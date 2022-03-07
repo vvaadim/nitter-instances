@@ -1,7 +1,7 @@
 url: https://nitter.govt.land
-status: up
-code: 200
-responseTime: 601
-lastUpdated: 2022-03-07T06:36:39.297Z
+status: down
+code: 502
+responseTime: 628
+lastUpdated: 2022-03-07T17:43:13.551Z
 startTime: Mon Jan 24 2022 21:28:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
