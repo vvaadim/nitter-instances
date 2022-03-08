@@ -194,8 +194,7 @@
       "2021-03-12": 1440,
       "2021-03-11": 1440,
       "2021-03-10": 1440,
-      "2021-03-09": 1440,
-      "2021-03-08": 1440
+      "2021-03-09": 1440
     }
   },
   {
@@ -372,8 +371,7 @@
       "2021-05-10": 21,
       "2021-05-09": 34,
       "2021-05-03": 16,
-      "2021-03-09": 287,
-      "2021-03-08": 108
+      "2021-03-09": 287
     }
   },
   {
@@ -606,8 +604,7 @@
       "2021-03-12": 1440,
       "2021-03-11": 1440,
       "2021-03-10": 1440,
-      "2021-03-09": 1440,
-      "2021-03-08": 1440
+      "2021-03-09": 1440
     }
   },
   {
@@ -731,7 +728,8 @@
     "timeMonth": 289,
     "timeYear": 561,
     "dailyMinutesDown": {
-      "2022-03-07": 1434,
+      "2022-03-08": 1,
+      "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
@@ -1165,8 +1163,8 @@
     "status": "up",
     "uptime": "89.12%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "34.17%",
-    "uptimeMonth": "46.66%",
+    "uptimeWeek": "34.25%",
+    "uptimeMonth": "46.67%",
     "uptimeYear": "89.12%",
     "time": 740,
     "timeDay": 351,
@@ -1530,7 +1528,7 @@
     "status": "up",
     "uptime": "95.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "85.87%",
+    "uptimeWeek": "85.94%",
     "uptimeMonth": "85.63%",
     "uptimeYear": "95.18%",
     "time": 609,
@@ -1688,19 +1686,20 @@
     "url": "https://nitter.govt.land",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png",
     "slug": "nitter-govt-land",
-    "status": "down",
+    "status": "up",
     "uptime": "93.77%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "97.53%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "97.48%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "93.77%",
-    "time": 624,
-    "timeDay": 594,
-    "timeWeek": 610,
-    "timeMonth": 616,
-    "timeYear": 624,
+    "time": 625,
+    "timeDay": 618,
+    "timeWeek": 613,
+    "timeMonth": 618,
+    "timeYear": 625,
     "dailyMinutesDown": {
-      "2022-03-07": 2,
+      "2022-03-08": 0,
+      "2022-03-07": 7,
       "2022-03-06": 248,
       "2022-02-24": 50,
       "2022-02-23": 177,
@@ -1812,7 +1811,7 @@
     "slug": "nitter-winscloud-net",
     "status": "up",
     "uptime": "93.27%",
-    "uptimeDay": "62.27%",
+    "uptimeDay": "62.77%",
     "uptimeWeek": "86.40%",
     "uptimeMonth": "93.27%",
     "uptimeYear": "93.27%",
