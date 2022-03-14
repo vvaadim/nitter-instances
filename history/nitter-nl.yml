@@ -1,7 +1,7 @@
 url: https://nitter.nl
-status: up
-code: 200
-responseTime: 551
-lastUpdated: 2022-03-13T06:49:03.098Z
+status: down
+code: 503
+responseTime: 422
+lastUpdated: 2022-03-14T12:00:15.951Z
 startTime: Thu Dec 30 2021 16:25:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
