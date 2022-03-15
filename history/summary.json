@@ -187,8 +187,7 @@
       "2021-03-19": 1440,
       "2021-03-18": 1440,
       "2021-03-17": 1440,
-      "2021-03-16": 1440,
-      "2021-03-15": 1440
+      "2021-03-16": 1440
     }
   },
   {
@@ -594,8 +593,7 @@
       "2021-06-16": 35,
       "2021-06-04": 147,
       "2021-06-03": 271,
-      "2021-05-17": 31,
-      "2021-03-15": 987
+      "2021-05-17": 31
     }
   },
   {
@@ -719,7 +717,8 @@
     "timeMonth": 325,
     "timeYear": 560,
     "dailyMinutesDown": {
-      "2022-03-14": 1432,
+      "2022-03-15": 19,
+      "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
       "2022-03-11": 1440,
@@ -1162,18 +1161,19 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png",
     "slug": "nitter-alefvanoon-xyz",
     "status": "down",
-    "uptime": "88.75%",
+    "uptime": "88.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.49%",
-    "uptimeMonth": "58.70%",
-    "uptimeYear": "88.75%",
+    "uptimeWeek": "78.22%",
+    "uptimeMonth": "58.64%",
+    "uptimeYear": "88.74%",
     "time": 747,
     "timeDay": 1029,
     "timeWeek": 958,
     "timeMonth": 1841,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2022-03-14": 1432,
+      "2022-03-15": 20,
+      "2022-03-14": 1440,
       "2022-03-13": 735,
       "2022-03-05": 870,
       "2022-03-04": 1440,
@@ -1701,7 +1701,7 @@
     "uptimeYear": "94.62%",
     "time": 623,
     "timeDay": 465,
-    "timeWeek": 614,
+    "timeWeek": 610,
     "timeMonth": 618,
     "timeYear": 623,
     "dailyMinutesDown": {
@@ -1767,18 +1767,17 @@
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png",
     "slug": "tw-artemislena-eu",
     "status": "up",
-    "uptime": "97.98%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "97.42%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "97.98%",
+    "uptime": "98.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "98.01%",
     "time": 933,
     "timeDay": 916,
     "timeWeek": 822,
     "timeMonth": 972,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2022-03-14": 13,
       "2022-03-10": 173,
       "2022-03-09": 74,
       "2022-03-04": 23,
