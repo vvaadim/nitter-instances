@@ -142,6 +142,24 @@ sites:
   - name: twtr.bch.bar
     url: https://twtr.bch.bar
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png
+  - name: nitter.privacy.com.de
+    url: https://nitter.privacy.com.de
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.mastodon.pro
+    url: https://nitter.mastodon.pro
+    ico https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ch.png
+  - name: nitter.notraxx.ch
+    url: https://nitter.notraxx.ch
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.poast.org
+    url: https://nitter.poast.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
+  - name: nitter.lunar.icu
+    url: https://nitter.lunar.icu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: nitter.bird.froth.zone
+    url: https://nitter.bird.froth.zone
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
