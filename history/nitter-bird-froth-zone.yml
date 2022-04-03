@@ -1,7 +1,7 @@
 url: https://nitter.bird.froth.zone
-status: up
-code: 200
-responseTime: 213
-lastUpdated: 2022-04-03T21:43:16.632Z
+status: down
+code: 502
+responseTime: 244
+lastUpdated: 2022-04-03T21:50:36.814Z
 startTime: Mon Mar 28 2022 19:18:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
