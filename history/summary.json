@@ -702,7 +702,7 @@
     "timeMonth": 312,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-04-04": 675,
+      "2022-04-04": 685,
       "2022-04-03": 1440,
       "2022-04-02": 1440,
       "2022-04-01": 1440,
@@ -1169,7 +1169,7 @@
     "status": "down",
     "uptime": "86.29%",
     "uptimeDay": "1.73%",
-    "uptimeWeek": "47.20%",
+    "uptimeWeek": "47.11%",
     "uptimeMonth": "65.82%",
     "uptimeYear": "86.29%",
     "time": 1246,
@@ -1178,7 +1178,7 @@
     "timeMonth": 2262,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2022-04-04": 675,
+      "2022-04-04": 685,
       "2022-04-03": 1197,
       "2022-04-02": 964,
       "2022-04-01": 512,
@@ -1267,9 +1267,9 @@
     "slug": "n-hyperborea-cloud",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "98.91%",
     "time": 2318,
     "timeDay": 6863,
@@ -1277,7 +1277,6 @@
     "timeMonth": 2689,
     "timeYear": 2318,
     "dailyMinutesDown": {
-      "2022-04-04": 10,
       "2022-03-26": 21,
       "2022-03-23": 26,
       "2022-03-06": 30,
@@ -1344,7 +1343,8 @@
       "2021-11-23": 52,
       "2021-11-22": 18,
       "2021-11-21": 653,
-      "2021-11-19": 36
+      "2021-11-19": 36,
+      "2021-11-18": 27
     }
   },
   {
@@ -1730,18 +1730,19 @@
     "url": "https://nitter.govt.land",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png",
     "slug": "nitter-govt-land",
-    "status": "up",
-    "uptime": "96.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
+    "status": "down",
+    "uptime": "96.47%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "98.86%",
     "uptimeMonth": "98.05%",
-    "uptimeYear": "96.46%",
+    "uptimeYear": "96.47%",
     "time": 634,
-    "timeDay": 731,
-    "timeWeek": 652,
+    "timeDay": 645,
+    "timeWeek": 650,
     "timeMonth": 645,
     "timeYear": 634,
     "dailyMinutesDown": {
+      "2022-04-04": 2,
       "2022-04-03": 34,
       "2022-04-02": 23,
       "2022-03-31": 37,
@@ -1763,7 +1764,7 @@
       "2022-01-29": 623,
       "2022-01-28": 562,
       "2022-01-27": 608,
-      "2022-01-26": 411
+      "2022-01-26": 392
     }
   },
   {
