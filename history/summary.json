@@ -700,7 +700,7 @@
     "timeMonth": 300,
     "timeYear": 551,
     "dailyMinutesDown": {
-      "2022-04-06": 334,
+      "2022-04-06": 341,
       "2022-04-05": 1440,
       "2022-04-04": 1440,
       "2022-04-03": 1440,
@@ -1733,19 +1733,19 @@
     "url": "https://nitter.govt.land",
     "icon": "https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/zz.png",
     "slug": "nitter-govt-land",
-    "status": "up",
-    "uptime": "96.55%",
-    "uptimeDay": "89.40%",
-    "uptimeWeek": "97.35%",
+    "status": "down",
+    "uptime": "96.65%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "97.34%",
     "uptimeMonth": "97.66%",
-    "uptimeYear": "96.55%",
+    "uptimeYear": "96.65%",
     "time": 635,
     "timeDay": 702,
     "timeWeek": 657,
     "timeMonth": 644,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-04-06": 152,
+      "2022-04-06": 154,
       "2022-04-05": 18,
       "2022-04-03": 34,
       "2022-04-02": 23,
@@ -1768,7 +1768,7 @@
       "2022-01-29": 623,
       "2022-01-28": 562,
       "2022-01-27": 608,
-      "2022-01-26": 239
+      "2022-01-26": 126
     }
   },
   {
