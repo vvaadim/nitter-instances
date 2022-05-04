@@ -154,9 +154,6 @@ sites:
   - name: nitter.bird.froth.zone
     url: https://nitter.bird.froth.zone
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
-  - name: twitter.paranoid.cf
-    url: https://twitter.paranoid.cf
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ch.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
