@@ -1,7 +1,7 @@
 url: https://nitter.bus-hit.me
-status: up
-code: 200
-responseTime: 242
-lastUpdated: 2022-05-10T23:02:44.503Z
+status: down
+code: 502
+responseTime: 346
+lastUpdated: 2022-05-11T06:33:34.517Z
 startTime: Thu Jan 13 2022 19:30:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
