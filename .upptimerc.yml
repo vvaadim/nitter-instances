@@ -29,9 +29,6 @@ sites:
   - name: nitter.domain.glass
     url: https://nitter.domain.glass
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/us.png
-  - name: nitter.eu
-    url: https://nitter.eu
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
   - name: nitter.namazso.eu
     url: https://nitter.namazso.eu
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
