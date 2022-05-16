@@ -148,6 +148,18 @@ sites:
   - name: nitter.bird.froth.zone
     url: https://nitter.bird.froth.zone
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ca.png
+  - name: nitter.dcs0.hu
+    url: https://nitter.dcs0.hu
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/hu.png
+  - name: twitter.dr460nf1r3.org
+    url: https://twitter.dr460nf1r3.org
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
+  - name: twitter.beparanoid.de
+    url: https://twitter.beparanoid.de
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/ch.png
+  - name: n.ramle.be
+    url: https://n.ramle.be
+    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/be.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
