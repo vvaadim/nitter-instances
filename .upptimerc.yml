@@ -77,9 +77,6 @@ sites:
   - name: nitter.weiler.rocks
     url: https://nitter.weiler.rocks
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
-  - name: nitter.silkky.cloud
-    url: https://nitter.silkky.cloud
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fi.png
   - name: nitter.sethforprivacy.com
     url: https://nitter.sethforprivacy.com
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
